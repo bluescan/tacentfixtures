@@ -1,0 +1,15 @@
+________________________________________________________________________________
+TacentTestPattern
+
+All images in this folder are conversions of the original
+TacentTestPatternRGBA.tga
+
+________________________________________________________________________________
+Licence
+
+All TacentTestPattern* images in this folder are licenced under ISC and CC0. A
+description of the 4 quadrants of the image and where they came from as well as
+the applicable licence for each may be found at 
+../Licences/Licence_TacentTestPattern.txt
+
+________________________________________________________________________________
