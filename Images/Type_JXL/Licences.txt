@@ -1,22 +1,31 @@
-TimeTravel.jxl
-Photo by Zoltan Tasi
-Unsplash licence.
-
-
+________________________________________________________________________________
 Dice.jxl
-From Dice.png.
-Developed by: PNG Development Group (donated to W3C)
-1 Oct 1996
-zlib license
 
+Converted from Dice.png using Tacent View.
+Authored by PNG Development Group (donated to W3C) October 1, 1996.
+Distributed under the ZLib license which may be found at
+../Licences/Licence_ZLIB.txt
 
+________________________________________________________________________________
 Icos4D.jxl
-From Icos4D.gif.
-www.jasonhise.com
-Created 21 Feb 2007
-CC0
+Converted from Icos4D.gif using Tacent View.
+Created by Jason Hise Feb 21, 2007 and downloaded from www.jasonhise.com
+Distributed under CC0 1.0 Universal. The Creative Commons legal code may be
+found at ../Licences/Licence_CC0.txt
 
+________________________________________________________________________________
+TimeTravel.jxl
 
+Image downloaded from https://jpegxl.info/about/photo-credits.html
+Photo by Zoltan Tasi
+Distributed under the Unsplash licence that may be found at
+../Licences/Licence_UNSPLASH.txt
+
+________________________________________________________________________________
 Waterfall.jxl
-Photo taken by me.
-ISC licence.
+
+Photo taken by Tristan Grimmer.
+Distributed under the ISC licence which may be found at
+../Licences/Licence_ISC_Tacent.txt
+
+________________________________________________________________________________

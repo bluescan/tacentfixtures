@@ -13,4 +13,5 @@ Licence
 
 All CubeMap* images in this folder are licenced under the ISC licence found at
 ../Licences/Licence_ISC_Tacent.txt
+
 ________________________________________________________________________________
