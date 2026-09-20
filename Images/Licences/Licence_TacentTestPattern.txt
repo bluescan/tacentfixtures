@@ -1,0 +1,32 @@
+________________________________________________________________________________
+TacentTestPattern
+
+The licence information here applies to all files with a base name starting
+with "TacentTestPattern" regardless of further naming categorizations or image
+format/extensions. The original file was created as a TGA using Tacent View.
+The test image is divided into distinct quadrants. The summary is that
+TacentTestPattern is licensed under ISC with one quadrant as CC0.
+
+________________________________________________________________________________
+Bottom-Right Quadrant
+
+This quadrant of TacentTestPattern (the 'splash') is CC0-licensed and from user
+UploadMeToday at purepng.com. The Creative Commons Legal Code for CC0 1.0
+Universal may be found at
+../../Licences/Licence_CC0.txt
+
+________________________________________________________________________________
+Top-Right Bottom-Left Quadrants
+
+These quadrants are photos taken by me (Tristan Grimmer) and are licenced under
+ISC. The licence may be found at
+../../Licences/Licence_ISC_Tacent.txt
+
+________________________________________________________________________________
+Top-Left Quadrant
+
+This quadrant contains generated gradients that were created using the Tacent
+library. The licence for this quadrant is (also) ISC and is found at
+../../Licences/Licence_ISC_Tacent.txt
+
+________________________________________________________________________________

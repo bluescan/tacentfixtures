@@ -8,6 +8,7 @@ Distributed under the ZLib license which may be found at
 
 ________________________________________________________________________________
 Icos4D.jxl
+
 Converted from Icos4D.gif using Tacent View.
 Created by Jason Hise Feb 21, 2007 and downloaded from www.jasonhise.com
 Distributed under CC0 1.0 Universal. The Creative Commons legal code may be
