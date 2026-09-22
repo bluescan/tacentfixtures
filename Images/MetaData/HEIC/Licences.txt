@@ -1,0 +1,16 @@
+________________________________________________________________________________
+ChefWithTrumpet_EXIF_XMP.heic ChildrensShowTheater_EXIF.heic
+ClassicCar_EXIF_XMP.heic GreyhoundsLookingForATable_EXIF_XMP.heic
+OldSafeWall_EXIF_XMP.heic SewingThreads_EXIF.heic
+ShelfChristmasDecoration_EXIF.heic Soundboard_EXIF.heic
+
+These were all downloaded from https://heic.digital/samples/ and are covered by
+the conditions found in ../../Licences/Licence_HEICDigital.txt
+
+________________________________________________________________________________
+TacentTestPattern_NONE.heic
+
+This image is both ISC and CC0 licensed. Specifics may be found at
+../../Licences/Licence_TacentTestPattern.txt
+
+________________________________________________________________________________

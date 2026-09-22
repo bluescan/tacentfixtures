@@ -1,0 +1,17 @@
+________________________________________________________________________________
+NoFlashComp_EXIF.jpg NorthernProblem_XMP.jpg OrnateInterior_EXIF_XMP.jpg
+ParisSonyAlpha_EXIF.jpg Pencils_NONE.jpg PillarsCalib_EXIF_XMP.jpg
+Right_EXIF.jpg SolarFarm_EXIF_XMP.jpg UnicornTapestry_EXIF_XMP.jpg
+WhiteAudiFrontDay_EXIF.jpg WhiteAudiFrontNight_EXIF.jpg
+WhiteAudiSideDay_EXIF.jpg AerialBuilding_EXIF_XMP.jpg
+AerialMountainVanSunset_EXIF_XMP.jpg AerialParking_EXIF_XMP.jpg
+AerialTrail_EXIF_XMP.jpg ChurchPanorama_EXIF_XMP.jpg DownMirrored_EXIF.jpg
+DroneBebop2_EXIF_XMP.jpg Flower_EXIF.jpg GolfCrosa_EXIF_XMP.jpg
+HasAuthorNotes_EXIF_XMP.jpg HasLatLong_EXIF_XMP.jpg HasUTCDateTime_EXIF_XMP.jpg
+LensInfo_EXIF.jpg Lukas_EXIF_XMP.jpg ModernistBarn_EXIF_XMP.jpg
+
+These files were downloaded from https://github.com/cdcseacave/TinyEXIF in
+August 2022 and are governed by the licence found in
+../../Licences/Licence_CDCSeaCave.txt
+
+________________________________________________________________________________

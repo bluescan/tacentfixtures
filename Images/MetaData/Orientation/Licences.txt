@@ -1,0 +1,45 @@
+________________________________________________________________________________
+EXIF Orientation-Flag Example Images
+
+Example images using each of the EXIF orientation flags (0-to-8), in both
+landscape and portrait orientations. See
+http://www.daveperrett.com/articles/2012/07/28/exif-orientation-handling-is-a-ghetto
+for more information.
+
+________________________________________________________________________________
+Landscape#_EXIF.jpg Images
+
+These images are based on a photo by Pierre Bouillot
+https://unsplash.com/photos/v15iOM6pWgI
+and are covered by the Unsplash licence found at
+../../Licences/Licence_UNSPLASH.txt
+
+________________________________________________________________________________
+Portrait#_EXIF.jpg Images
+
+These images are based on a photo by John Salvino
+https://unsplash.com/photos/1PPpwrTNkJI
+and are covered by the Unsplash licence found at
+../../Licences/Licence_UNSPLASH.txt
+
+________________________________________________________________________________
+Modifications
+
+Modifications to the Landscape and Portrait images by adding left, right, top,
+bottom indicators, a numeric image index, and insterting meta-data (to test EXIF
+orientation flags) are
+Copyright (c) 2010 Dave Perrett, http://recursive-design.com/
+and are covered by the MIT licence as found at
+../../Licences/Licence_MIT.txt
+
+Change history
+*Version 2.0.0 (2017-08-05) : Add a script to generate example images from the command line.
+*Version 1.0.2 (2017-03-06) : Remove Apple Copyrighted ICC profile from orientations 2-8 (thanks @mans0954!).
+*Version 1.0.1 (2013-03-10) : Add MIT license and some contact details.
+*Version 1.0.0 (2012-07-28) : 1.0 release.
+
+Author
+Dave Perrett
+hello@daveperrett.com
+[@daveperrett](http://twitter.com/daveperrett)
+________________________________________________________________________________

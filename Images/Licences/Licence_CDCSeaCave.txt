@@ -1,8 +1,25 @@
-The test image files in this folder are from https://github.com/cdcseacave/TinyEXIF
-The licence in the Readme in the parent folder simply states:
+________________________________________________________________________________
+CDC SeaCave
 
+Images downloaded from
+https://github.com/cdcseacave/TinyEXIF/tree/master/Samples are free to use as
+described by the licensing information found at
+https://github.com/cdcseacave/TinyEXIF
 
-## Copyright
+________________________________________________________________________________
+Licence
+
+Images downloaded after Nov 17, 2025 are Copyright (c) 2025 cdcseacave and are
+governed by the MIT licence. See Licence_MIT.txt
+
+It appears that it is now acceptable to simply use the MIT licence, however,
+since the images in the tacentfixtures repository were downloaded on
+approximately August of 2022 we are including the copyright statement in
+effect at that time. In particular prior to Nov 17, 2025 the licensing terms
+read as follows:
+
+```
+Copyright
 
 Redistribution and use in source and binary forms, with or without 
 modification, are permitted provided that the following conditions are met:
@@ -23,3 +40,6 @@ DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY
 OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING 
 NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, 
 EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+```
+
+________________________________________________________________________________
