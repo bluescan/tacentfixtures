@@ -1,0 +1,7 @@
+________________________________________________________________________________
+SkyRight_EXIF_XMP.tiff
+
+This image is a texture from Tactile3D, an old 3D file browser project. It is
+covered by the ISC licence found at ../../Licences/Licence_ISC_Tacent.txt
+
+________________________________________________________________________________

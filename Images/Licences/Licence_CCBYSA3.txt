@@ -1,27 +1,3 @@
-The images in here were modified to include meta data.
-
-________________________________________________________________________________
-FireBreathing Image
-
-Downloaded from: https://developers.google.com/speed/webp/gallery1
-Image: Fire breathing "Jaipur Maharaja Brass Band" Chassepierre Belgium
-Author: Luc Viatour
-PNG source
-Licensed under Creative Commons Attribution-Share Alike 3.0 Unported
-Author website at www.lucnix.be
-
-________________________________________________________________________________
-WildCherry Image
-
-Downloaded from: https://developers.google.com/speed/webp/gallery1
-Image: "A Wild Cherry (Prunus avium) in flower"
-Image Author: Benjamin Gimmel
-PNG source
-Licensed under Creative Commons Attribution-Share Alike 3.0 Unported
-
-________________________________________________________________________________
-Licences
-
 Creative Commons Legal Code
 
 Attribution-ShareAlike 3.0 Unported
