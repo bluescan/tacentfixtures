@@ -1,10 +1,20 @@
+________________________________________________________________________________
 Raw pixel data file names follow the convention:
-PixelFormat_WidthxHeight_ColourSpace_Offset_RowOrder_SurfOrMipCount
+PixelFormat_WidthxHeight_ColourSpace_Offset_RowOrder_SurfOrMipCount_Source
 
 ColourSpace may be sRGB or lRGB.
-Offset is ONN where NN is the offset count in bytes.
+
+Offset is a 3-digit number with leading zeroes that is the offset count in
+bytes to the actual pixel data in the file.
+
 RowOrder is NR for no row-reversal and RR for row reversal.
-SurfOfMipCount is SNN for surfaces and MNN for mipmaps. NN is count.
+
+SurfOfMipCount is SNN for surfaces and MNN for mipmaps. NN is a number with
+possibly a lead zero.
+
+Source is either DSK if the image is the Desk.exr image, TTP if it is the
+TacentTestPattern, DOK if it is the Dock photo, or CUB if it is a Tacent
+cubemap side image.
 
 Licences are same as for Desk.exr and TacentTestPatter.
 @todo Update this licences file.
