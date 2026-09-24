@@ -1,0 +1,6 @@
+________________________________________________________________________________
+Explosion_Frame_NNN.png
+
+These images were downloaded from blogs.unity3d.com and are dedicated to the
+public domain under CC0 found at ../Licences/Licence_CC0.txt
+________________________________________________________________________________
