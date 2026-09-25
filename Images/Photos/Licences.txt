@@ -1,5 +1,5 @@
 ________________________________________________________________________________
-PowerPano.jpg Reflection.jpg Waterfall.jpg
+PowerPano.jpg Reflection.jpg Waterfall.jpg Dock.jpg
 
 Photos taken by Tristan Grimmer. Distributed under the ISC licence which may be
 found at ../Licences/Licence_ISC_Tacent.txt

@@ -1,20 +1,36 @@
 ________________________________________________________________________________
-Raw pixel data file names follow the convention:
-PixelFormat_WidthxHeight_ColourSpace_Offset_RowOrder_SurfOrMipCount_Source
+R8G8B8D8_644x874_lRGB_068_RR_S01_DSK.raw
+R8G8B8M8_644x874_lRGB_068_RR_S01_DSK.raw
+ASTC8X5_644x874_lRGB_000_RR_S01_DSK.raw
 
-ColourSpace may be sRGB or lRGB.
+These images are conversions of Desk.exr downloaded from
+https://github.com/AcademySoftwareFoundation/openexr-images
+These files are licenced under the ILM licence found at
+../Licences/Licence_ILM.txt
 
-Offset is a 3-digit number with leading zeroes that is the offset count in
-bytes to the actual pixel data in the file.
+________________________________________________________________________________
+B10G11R11uf_1280x720_lRGB_068_RR_M11_TTP.raw
+BC1DXT1_1280x720_sRGB_068_RR_M11_TTP.raw
+E5B9G9R9uf_1280x720_lRGB_068_RR_S01_TTP.raw
+ETC1_1024x512_lRGB_068_RR_M11_TTP.raw
+ASTC8X5_1280x720_sRGB_000_RR_S01_TTP.raw
 
-RowOrder is NR for no row-reversal and RR for row reversal.
+These images are conversions of TacentTestPattern32.tga and are licenced under
+ISC and CC0. A description of the 4 quadrants of the image and where they came
+from as well as the applicable licence for each may be found at 
+../Licences/Licence_TacentTestPattern.txt
 
-SurfOfMipCount is SNN for surfaces and MNN for mipmaps. NN is a number with
-possibly a lead zero.
+________________________________________________________________________________
+BC1DXT1_512x512_sRGB_128_RR_S06_CUB.raw
 
-Source is either DSK if the image is the Desk.exr image, TTP if it is the
-TacentTestPattern, DOK if it is the Dock photo, or CUB if it is a Tacent
-cubemap side image.
+This image is a conversions of CubeMap_Side1_PX_Right.png and is licenced under
+the ISC licence found at ../Licences/Licence_ISC_Tacent.txt
 
-Licences are same as for Desk.exr and TacentTestPatter.
-@todo Update this licences file.
+________________________________________________________________________________
+B8G8R8_317x177_sRGB_018_NR_S01_DOK.raw
+
+This image is a conversion the Dock.jpg photo taken by Tristan Grimmer.
+Distributed under the ISC licence which may be found at
+../Licences/Licence_ISC_Tacent.txt
+
+________________________________________________________________________________
