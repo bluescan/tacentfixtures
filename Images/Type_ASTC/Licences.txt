@@ -1,0 +1,17 @@
+________________________________________________________________________________
+ASTC*_HDR.astc
+
+All HDR images are conversions of Desk.exr downloaded from
+https://github.com/AcademySoftwareFoundation/openexr-images
+These files are licenced under the ILM licence found at
+../Licences/Licence_ILM.txt
+
+________________________________________________________________________________
+ASTC*_LDR.astc
+
+All LDR images are conversions of TacentTestPatternRGBA.tga and are licenced
+under ISC and CC0. A description of the 4 quadrants of the image and where they
+came from as well as the applicable licence for each may be found at 
+../Licences/Licence_TacentTestPattern.txt
+
+________________________________________________________________________________
