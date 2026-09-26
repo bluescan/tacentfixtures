@@ -1,0 +1,14 @@
+________________________________________________________________________________
+Alpha.bmp Lambda.bmp
+
+Images downloaded from https://github.com/benl23x5/bmp
+Copyright (c) 2010 Benjamin Lippmeier and distributed under
+../Licences/Licence_BENL.txt
+
+________________________________________________________________________________
+UpperBounds.bmp
+
+Created by Tristan Grimmer and distributed under the ISC licence at
+../Licences/Licence_ISC_Tacent.txt
+
+________________________________________________________________________________
