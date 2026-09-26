@@ -15,7 +15,7 @@ E5B9G9R9uf_1280x720_lRGB_068_RR_S01_TTP.raw
 ETC1_1024x512_lRGB_068_RR_M11_TTP.raw
 ASTC8X5_1280x720_sRGB_000_RR_S01_TTP.raw
 
-These images are conversions of TacentTestPattern32.tga and are licenced under
+These images are conversions of TacentTestPatternRGBA.tga and are licenced under
 ISC and CC0. A description of the 4 quadrants of the image and where they came
 from as well as the applicable licence for each may be found at 
 ../Licences/Licence_TacentTestPattern.txt

@@ -1,0 +1,14 @@
+________________________________________________________________________________
+Flame.apng
+
+Image was downloaded from blogs.unity3d.com and is dedicated to the public
+domain under CC0 found at ../Licences/Licence_CC0.txt
+
+________________________________________________________________________________
+Icos4D.apng
+
+Created by Jason Hise Feb 21, 2007 and downloaded from www.jasonhise.com
+Distributed under CC0 1.0 Universal. The Creative Commons legal code may be
+found at ../Licences/Licence_CC0.txt
+
+________________________________________________________________________________
