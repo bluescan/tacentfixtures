@@ -1,0 +1,20 @@
+________________________________________________________________________________
+Hypercube.gif
+
+This image was downloaded from https://blog.wikimedia.org/2016/09/22/math-gifs/
+and was dedicated to the public domain under CC0 found at
+../Licences/Licence_CC0.txt
+
+________________________________________________________________________________
+SkyBottom.gif
+
+This image was created by Casey O'Brien as part of the tactile3d project and is
+distributed under the ISC licence at ../Licences/Licence_ISC.txt
+
+________________________________________________________________________________
+TactileAnim.gif
+
+This image was created by Tristan Grimmer and is distributed under the ISC
+licence at ../Licences/Licence_ISC_Tacent.txt
+
+________________________________________________________________________________
