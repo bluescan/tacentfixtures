@@ -1,10 +1,6 @@
 ________________________________________________________________________________
-ASTC*_HDR*.ktx
-B10G11R11uf_RGB.ktx
-BC6S_RGB.ktx
-BC6U_RGB.ktx
-E5B9G9R9uf_RGB.ktx
-R16G16B16A16f_RGBA.ktx
+ASTC*_HDR*.ktx				B10G11R11uf_RGB.ktx			BC6S_RGB.ktx
+BC6U_RGB.ktx				E5B9G9R9uf_RGB.ktx			R16G16B16A16f_RGBA.ktx
 R32G32B32A32f_RGBA.ktx
 
 These images are conversions of Desk.exr downloaded from

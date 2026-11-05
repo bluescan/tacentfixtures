@@ -1,0 +1,39 @@
+________________________________________________________________________________
+ASTC*HDR*.ktx2				B10G11R11uf_RGB.ktx2		BC6S_RGB.ktx2
+E5B9G9R9uf_RGB.ktx2			R16f_R.ktx2					R16G16B16A16f_RGBA.ktx2
+R16G16f_RG.ktx2				R32f_R.ktx2					R32G32B32A32f_RGBA.ktx2
+R32G32f_RG.ktx2
+
+These images are conversions of Desk.exr downloaded from
+https://github.com/AcademySoftwareFoundation/openexr-images
+These files are licenced under the ILM licence found at
+../Licences/Licence_ILM.txt
+
+________________________________________________________________________________
+A8_A.ktx2					ASTC*RGBA*.ktx2				B8G8R8_RGB.ktx2
+B8G8R8A8_RGBA.ktx2			BC1DXT1_RGB.ktx2			BC1DXT1A_RGBA.ktx2
+BC2DXT2DXT3_RGBA.ktx2		BC3DXT4DXT5_RGBA.ktx2		BC4ATI1U_R.ktx2
+BC5ATI2U_RG.ktx2			BC7_RGBA.ktx2				BC7_RGBANoSuper.ktx2
+ETC*.ktx2					PVR*.ktx2					R8_A.ktx2
+R8_L.ktx2
+
+These images are all conversions of TacentTestPattersn. The images are both ISC
+and CC0 licensed. Specifics may be found at
+../Licences/Licence_TacentTestPattern.txt
+
+________________________________________________________________________________
+BC1DXT1_RGB_317x177.ktx2	BC1DXT1_RGB_318x178.ktx2	BC1DXT1_RGB_319x179.ktx2
+BC1DXT1_RGB_320x180.ktx2
+
+Dock photo taken by Tristan Grimmer.
+Distributed under the ISC licence which may be found at
+../Licences/Licence_ISC_Tacent.txt
+
+________________________________________________________________________________
+R8G8B8_Cubemap.ktx2
+
+This cubemap ktx2 image contains all 6 sides. The images were created by Tristan
+Grimmer are licenced under the ISC licence found at
+../Licences/Licence_ISC_Tacent.txt
+
+________________________________________________________________________________
