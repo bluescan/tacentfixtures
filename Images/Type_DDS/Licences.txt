@@ -16,8 +16,8 @@ and CC0 licensed. Specifics may be found at
 ../Licences/Licence_TacentTestPattern.txt
 
 ________________________________________________________________________________
-B10G11R11uf_RGB_Modern.dds				BC6S_HDRRGB_Modern.dds
-BC6U_HDRRGB_Modern.dds
+B10G11R11uf_RGB_Modern.dds	BC6S_HDRRGB_Modern.dds		BC6U_HDRRGB_Modern.dds
+DeskHDR644x874.dds
 
 These images are conversions of Desk.exr downloaded from
 https://github.com/AcademySoftwareFoundation/openexr-images
@@ -25,9 +25,7 @@ These files are licenced under the ILM licence found at
 ../Licences/Licence_ILM.txt
 
 ________________________________________________________________________________
-BC1DXT1_RGB_Modern_*x*.dds				DeskHDR644x874.dds
-E5B9G9R9uf_RGB_Modern.dds				R16*.dds
-R32*.dds
+BC1DXT1_RGB_Modern_*x*.dds	E5B9G9R9uf_RGB_Modern.dds	R16*.dds R32*.dds
 
 This image is a conversion the Dock.jpg photo taken by Tristan Grimmer.
 Distributed under the ISC licence which may be found at

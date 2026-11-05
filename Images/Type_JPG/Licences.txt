@@ -1,0 +1,29 @@
+________________________________________________________________________________
+Dock.jpg
+
+Photo taken by Tristan Grimmer.
+Distributed under the ISC licence which may be found at
+../Licences/Licence_ISC_Tacent.txt
+
+________________________________________________________________________________
+SkyLeft.jpg
+
+This image was created by Casey O'Brien as part of the Tactile 3D project and is
+distributed under the ISC licence at ../Licences/Licence_ISC.txt
+
+________________________________________________________________________________
+TactileConceptDevelopment.jpeg
+
+The images in this concept board were created by Casey O'Brien, Tristan Grimmer,
+and Darren Gough as part of the tactile3d project and are distributed under the
+ISC licence at ../Licences/Licence_ISC.txt
+
+________________________________________________________________________________
+WiredDrives.jpg
+
+This is a screenshot of the Wired theme in Tactile 3D. The 'circuit board'
+skybox was created by Casey O'Brien, The folder containers were created by
+Tristan Grimmer, The image is distributed under the ISC licence at
+../Licences/Licence_ISC.txt
+
+________________________________________________________________________________
