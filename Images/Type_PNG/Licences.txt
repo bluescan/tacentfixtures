@@ -1,0 +1,36 @@
+________________________________________________________________________________
+CubemapSide*.png
+
+The cubemap images were created by Tristan Grimmer are licenced under the ISC
+licence found at
+../Licences/Licence_ISC_Tacent.txt
+
+________________________________________________________________________________
+Dock512.png
+
+Dock photo taken by Tristan Grimmer. Distributed under the ISC licence which may
+be found at
+../Licences/Licence_ISC_Tacent.txt
+
+________________________________________________________________________________
+Mouse.png					Plane.png					RightArrow.png
+
+These images were created by Stefan Wessels and are covered by the MIT licence
+../Licences/Licence_MIT.txt with Stefan Wessels as the author in 2024. I believe
+these images were created during the implementation of a Time Pilot clone:
+https://github.com/StewBC/Time-Pilot
+
+________________________________________________________________________________
+TacentTestPattern*.png
+
+These images are all conversions of TacentTestPattersn. The images are both ISC
+and CC0 licensed. Specifics may be found at
+../Licences/Licence_TacentTestPattern.txt
+
+________________________________________________________________________________
+TextCursor.png
+
+This image is a texture from Tactile3D, an old 3D file browser project. It is
+covered by the ISC licence found at ../../Licences/Licence_ISC_Tacent.txt
+
+________________________________________________________________________________
