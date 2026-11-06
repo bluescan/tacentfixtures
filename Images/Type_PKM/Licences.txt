@@ -1,0 +1,8 @@
+________________________________________________________________________________
+*.pkm
+
+All PKM images are all conversions of TacentTestPattersn. The images are both
+ISC and CC0 licensed. Specifics may be found at
+../Licences/Licence_TacentTestPattern.txt
+
+________________________________________________________________________________
