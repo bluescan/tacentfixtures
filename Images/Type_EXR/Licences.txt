@@ -1,0 +1,9 @@
+________________________________________________________________________________
+Desk.exr			CandleGlass.exr			StillLife.exr
+
+These images were downloaded from
+https://github.com/AcademySoftwareFoundation/openexr-images
+They are licensed under the ILM licence found at
+../Licences/Licence_ILM.txt
+
+________________________________________________________________________________
