@@ -1,0 +1,38 @@
+________________________________________________________________________________
+AnimatedCaustics.webp
+MesmerizingMotion.webp
+TransparentCalicoCatSticker.webp
+
+These images were downloaded from
+From https://convertico.com/samples/webp/#google_vignette
+Form the website:
+"Every WEBP sample on this page is free to download and use - for testing
+software, demos, tutorials, bug reports and school projects. No sign-up, no
+attribution required. A link back to convertico.com/samples/webp/ is always
+appreciated. Please do not resell the files as stock images."
+
+________________________________________________________________________________
+Flipbook.webp
+
+These "Explosion" images were downloaded from blogs.unity3d.com and were
+converted into an animated webp using Tacent View. The images are dedicated to
+the public domain (thank you Unity) under the conditions of the CC0 legal text
+../Licences/Licence_CC0.txt
+
+________________________________________________________________________________
+RockyBeach.webp
+
+Photo taken by Tristan Grimmer and distributed under the ISC licence which may
+be found at
+../Licences/Licence_ISC_Tacent.txt
+
+________________________________________________________________________________
+CrystalTux.webp
+
+"Crystal Tux" is released under a Public Domain (CC0 Equivalent) status. This
+specific graphic was originally designed and shared by the team at CrystalXP.com
+and uploaded to platforms like Clker Vector Clip Art. the legal text of CC0 may
+be found at
+../Licences/Licence_CC0.txt
+
+________________________________________________________________________________
