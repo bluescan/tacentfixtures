@@ -1,8 +1,8 @@
 ________________________________________________________________________________
 ETC1_RGB_C.pvr
 
-This cubemap side image was created by Tristan Grimmer and is licenced under the
-ISC licence found at
+This cubemap image (all 6 sides) was created by Tristan Grimmer and is licensed
+under the ISC licence found at
 ../Licences/Licence_ISC_Tacent.txt
 
 ________________________________________________________________________________
@@ -11,7 +11,7 @@ R8G8B8A8_RGBA_TM.pvr		B8G8R8A8_RGBA_T.pvr			B8G8R8A8_RGBA_TM.pvr
 ETC1_RGB_C.pvr				ETC1_RGB_TM.pvr				PVR2BPP2_RGBA_TM.pvr
 PVR2BPP4_RGBA_TM.pvr		PVRBPP2_RGB_TM.pvr
 
-These images are all conversions of TacentTestPattersn. The images are both ISC
+These images are all conversions of TacentTestPattern. The images are both ISC
 and CC0 licensed. Specifics may be found at
 ../Licences/Licence_TacentTestPattern.txt
 

@@ -1,0 +1,52 @@
+________________________________________________________________________________
+A1R5G5B5+G3B5A1R5G2_UNORM_lRGB_RGBA_T,pvr	EACR11S_SNORM_lRGB_R_T,pvr
+A4R4G4B4+G4B4A4R4_UNORM_lRGB_RGBA_T,pvr		EACR11U_UNORM_lRGB_R_T,pvr
+A4R4G4B4+G4B4A4R4_UNORM_lRGB_RGBA_TM,pvr	EACRG11S_SNORM_lRGB_RG_T,pvr
+A4R4G4B4+G4B4A4R4_UNORM_lRGB_RGBA_TP,pvr	EACRG11U_UNORM_lRGB_RG_T,pvr
+ASTC4X4_UNORM_sRGB_RGBA_TM_FlipHoriz,pvr	R16G16_UINT_lRGB_RG_T,pvr
+ASTC4X4_UNORM_sRGB_RGBA_TM_FlipVert,pvr		R32G32_UINT_lRGB_RG_T,pvr
+ASTC4X4_UNORM_sRGB_RGBA_T,pvr				ASTC10X10_UNORM_sRGB_RGBA_T,pvr
+ASTC10X5_UNORM_sRGB_RGBA_T,pvr				ASTC10X6_UNORM_sRGB_RGBA_T,pvr
+ASTC10X8_UNORM_sRGB_RGBA_T,pvr				ASTC12X10_UNORM_sRGB_RGBA_T,pvr
+ASTC12X12_UNORM_sRGB_RGBA_T,pvr				ASTC5X4_UNORM_sRGB_RGBA_T,pvr
+ASTC5X5_UNORM_sRGB_RGBA_T,pvr				ASTC6X5_UNORM_sRGB_RGBA_T,pvr
+ASTC6X6_UNORM_sRGB_RGBA_T,pvr				ASTC8X5_UNORM_sRGB_RGBA_T,pvr
+ASTC8X6_UNORM_sRGB_RGBA_T,pvr				ASTC8X8_UNORM_sRGB_RGBA_T,pvr
+B8G8R8A8_UNORM_sRGB_RGBA_T,pvr				B10G11R11uf_UFLOAT_HDRa_RGB_TM,pvr
+BC1DXT1_UNORM_sRGB_RGB_TM,pvr				BC1DXT1_UNORM_sRGB_RGBA_T,pvr
+BC2DXT2DXT3_UNORM_sRGB_RGBA_T,pvr			BC3DXT4DXT5_UNORM_sRGB_RGBA_T,pvr
+BC3DXT4DXT5_UNORM_sRGB_RGBA_TM,pvr			BC4ATI1S_SNORM_lRGB_R_T,pvr
+BC4ATI1U_UNORM_lRGB_R_T,pvr					BC5ATI2S_SNORM_lRGB_RG_T,pvr
+BC5ATI2U_UNORM_lRGB_RG_T,pvr				PVRBPP2_UNORM_sRGB_RGB_TM,pvr
+PVRBPP2_UNORM_sRGB_RGBA_TM,pvr				R8G8B8A8_UNORM_sRGB_RGBA_TM,pvr
+R4G4B4A4+B4A4R4G4_UNORM_lRGB_RGBA_T,pvr		PVRBPP4_UNORM_sRGB_RGB_T,pvr
+R5G6B5+G3B5R5G3_UNORM_lRGB_RGB_T,pvr		PVRBPP4_UNORM_sRGB_RGBA_T,pvr
+R5G5B5A1+G2B5A1R5G3_UNORM_lRGB_RGBA_T,pvr	ETC1_UNORM_lRGB_RGB_TM,pvr
+R4G4B4A4+B4A4R4G4_UNORM_lRGB_RGBA_TP,pvr	ETC2RGB_UNORM_sRGB_RGB_T,pvr
+R32G32B32A32f_SFLOAT_HDRa_RGBA_TM,pvr		ETC2RGBA_UNORM_sRGB_RGBA_T,pvr
+RGB999E5+E5B9G9R9uf_UFLOAT_HDRa_RGB_T,pvr	ETC2RGBA1_UNORM_sRGB_RGBA_T,pvr
+
+These images are all conversions of TacentTestPattern. The images are both ISC
+and CC0 licensed. Specifics may be found at
+../Licences/Licence_TacentTestPattern.txt
+
+________________________________________________________________________________
+PVR2HDRBPP6_SFLOAT_HDRa_RGB_TM,pvr			PVR2HDRBPP8_SFLOAT_HDRa_RGB_TM,pvr
+PVRHDRBPP6_SFLOAT_HDRa_RGB_T,pvr			PVRHDRBPP8_SFLOAT_HDRa_RGB_T,pvr
+RGBD+R8G8B8D8_UNORM_HDRa_RGB_RANGE8_T,pvr	ASTC4X4_SFLOAT_lRGB_RGB_T,pvr
+RGBM+R8G8B8M8_UNORM_HDRa_RGB_RANGE8_T,pvr	ASTC4X4_UNORM_lRGB_RGB_T,pvr
+R32G32B32A32f_SFLOAT_HDRa_RGBA_T,pvr
+
+These images are conversions of Desk.exr downloaded from
+https://github.com/AcademySoftwareFoundation/openexr-images
+These files are licensed under the ILM licence found at
+../Licences/Licence_ILM.txt
+
+________________________________________________________________________________
+ASTC4X4_UNORM_sRGB_RGB_C,pvr				ASTC4X4_UNORM_sRGB_RGB_MC,pvr
+
+These cubemap images (all 6 sides each) were created by Tristan Grimmer and is
+licensed under the ISC licence found at
+../Licences/Licence_ISC_Tacent.txt
+
+________________________________________________________________________________
