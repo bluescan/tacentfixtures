@@ -1,0 +1,23 @@
+________________________________________________________________________________
+Tiff_LZW.tif		Tiff_NoComp.tif		Tiff_Pack.tif		Tiff_ZIP.tif
+
+These are screenshots of the Wired theme in Tactile 3D. The 'circuit board'
+skybox was created by Casey O'Brien, The folder containers were created by
+Tristan Grimmer, The imags are distributed under the ISC licence at
+../Licences/Licence_ISC.txt
+
+________________________________________________________________________________
+SkyRight.tiff
+
+This image was created by Casey O'Brien as part of the Tactile 3D project and is
+distributed under the ISC licence at ../Licences/Licence_ISC.txt
+
+________________________________________________________________________________
+Tiff_Multipage_ZIP.tif
+
+Three photos of a mysterious 'concrete structure' taken by Tristan Grimmer. They
+are encoded into 3 'pages' of a single TIFF file. Distributed under the ISC
+licence which may be found at
+../Licences/Licence_ISC_Tacent.txt
+
+________________________________________________________________________________
