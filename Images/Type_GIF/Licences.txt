@@ -1,8 +1,11 @@
 ________________________________________________________________________________
-Hypercube.gif
+HyperCube.gif				HyperCubeCyrillic_ы.gif		HyperDodecahedron.gif
 
-This image was downloaded from https://blog.wikimedia.org/2016/09/22/math-gifs/
-and was dedicated to the public domain under CC0 found at
+These images were created by Jason Hise and downloaded from
+https://blog.wikimedia.org/2016/09/22/math-gifs/
+As of 2026_11_07 the site above is still operational.
+The HypercubeCyrillic_ы.gif is just for testing Cyrillic filename characters.
+The images were dedicated to the public domain under CC0. The legal text is at
 ../Licences/Licence_CC0.txt
 
 ________________________________________________________________________________
