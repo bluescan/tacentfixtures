@@ -6,7 +6,7 @@ R32G32f_RG.ktx2
 
 These images are conversions of Desk.exr downloaded from
 https://github.com/AcademySoftwareFoundation/openexr-images
-These files are licenced under the ILM licence found at
+These files are licensed under the ILM licence found at
 ../Licences/Licence_ILM.txt
 
 ________________________________________________________________________________
@@ -17,7 +17,7 @@ BC5ATI2U_RG.ktx2			BC7_RGBA.ktx2				BC7_RGBANoSuper.ktx2
 ETC*.ktx2					PVR*.ktx2					R8_A.ktx2
 R8_L.ktx2
 
-These images are all conversions of TacentTestPattersn. The images are both ISC
+These images are all conversions of TacentTestPattern. The images are both ISC
 and CC0 licensed. Specifics may be found at
 ../Licences/Licence_TacentTestPattern.txt
 
@@ -33,7 +33,7 @@ ________________________________________________________________________________
 R8G8B8_Cubemap.ktx2
 
 This cubemap ktx2 image contains all 6 sides. The images were created by Tristan
-Grimmer are licenced under the ISC licence found at
+Grimmer are licensed under the ISC licence found at
 ../Licences/Licence_ISC_Tacent.txt
 
 ________________________________________________________________________________

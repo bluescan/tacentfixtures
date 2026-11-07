@@ -11,21 +11,22 @@ ETC1*.dds								ETC2*.dds
 G3*.dds									G4*.dds
 L8_L_Legacy.dds							R8_L_Modern.dds
 
-These images are all conversions of TacentTestPattersn. The images are both ISC
+These images are all conversions of TacentTestPattern. The images are both ISC
 and CC0 licensed. Specifics may be found at
 ../Licences/Licence_TacentTestPattern.txt
 
 ________________________________________________________________________________
-B10G11R11uf_RGB_Modern.dds	BC6S_HDRRGB_Modern.dds		BC6U_HDRRGB_Modern.dds
-DeskHDR644x874.dds
+B10G11R11uf_RGB_Modern.dds				BC6S_HDRRGB_Modern.dds
+BC6U_HDRRGB_Modern.dds					DeskHDR644x874.dds
 
 These images are conversions of Desk.exr downloaded from
 https://github.com/AcademySoftwareFoundation/openexr-images
-These files are licenced under the ILM licence found at
+These files are licensed under the ILM licence found at
 ../Licences/Licence_ILM.txt
 
 ________________________________________________________________________________
-BC1DXT1_RGB_Modern_*x*.dds	E5B9G9R9uf_RGB_Modern.dds	R16*.dds R32*.dds
+BC1DXT1_RGB_Modern_*x*.dds				E5B9G9R9uf_RGB_Modern.dds
+R16*.dds R32*.dds
 
 This image is a conversion the Dock.jpg photo taken by Tristan Grimmer.
 Distributed under the ISC licence which may be found at
@@ -34,7 +35,7 @@ Distributed under the ISC licence which may be found at
 ________________________________________________________________________________
 CubemapLayoutGuide.dds
 
-This image is licenced under the ISC licence found at
+This image is licensed under the ISC licence found at
 ../Licences/Licence_ISC_Tacent.txt
 
 ________________________________________________________________________________

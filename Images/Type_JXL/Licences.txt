@@ -3,7 +3,7 @@ Dice.jxl
 
 Converted from Dice.png using Tacent View.
 Authored by PNG Development Group (donated to W3C) October 1, 1996.
-Distributed under the ZLib license which may be found at
+Distributed under the ZLib licence which may be found at
 ../Licences/Licence_ZLIB.txt
 
 ________________________________________________________________________________

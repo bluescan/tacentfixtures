@@ -1,13 +1,5 @@
 ________________________________________________________________________________
-EXIF Orientation-Flag Example Images
-
-Example images using each of the EXIF orientation flags (0-to-8), in both
-landscape and portrait orientations. See
-http://www.daveperrett.com/articles/2012/07/28/exif-orientation-handling-is-a-ghetto
-for more information.
-
-________________________________________________________________________________
-Landscape#_EXIF.jpg Images
+Landscape#_EXIF.jpg
 
 These images are based on a photo by Pierre Bouillot
 https://unsplash.com/photos/v15iOM6pWgI
@@ -15,7 +7,7 @@ and are covered by the Unsplash licence found at
 ../../Licences/Licence_UNSPLASH.txt
 
 ________________________________________________________________________________
-Portrait#_EXIF.jpg Images
+Portrait#_EXIF.jpg
 
 These images are based on a photo by John Salvino
 https://unsplash.com/photos/1PPpwrTNkJI

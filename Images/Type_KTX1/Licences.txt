@@ -5,7 +5,7 @@ R32G32B32A32f_RGBA.ktx
 
 These images are conversions of Desk.exr downloaded from
 https://github.com/AcademySoftwareFoundation/openexr-images
-These files are licenced under the ILM licence found at
+These files are licensed under the ILM licence found at
 ../Licences/Licence_ILM.txt
 
 ________________________________________________________________________________
@@ -21,7 +21,7 @@ PVRBPP2_sRGB_RGBA_M.ktx		PVRBPP4_sRGB_RGB.ktx		PVRBPP4_sRGB_RGBA.ktx
 R8G8B8A8_Mipmap.ktx			R8G8B8A8_RGBA.ktx			B4A4R4G4_RGBA.ktx
 BC1DXT1_RGB.ktx
 
-These images are all conversions of TacentTestPattersn. The images are both ISC
+These images are all conversions of TacentTestPattern. The images are both ISC
 and CC0 licensed. Specifics may be found at
 ../Licences/Licence_TacentTestPattern.txt
 

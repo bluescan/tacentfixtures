@@ -1,7 +1,7 @@
 ________________________________________________________________________________
-ChefWithTrumpet.heic ChildrensShowTheater.heic ClassicCar.heic
-GreyhoundsLookingForATable.heic OldSafeWall.heic SewingThreads.heic
-ShelfChristmasDecoration.heic Soundboard.heic
+ChefWithTrumpet.heic			ChildrensShowTheater.heic	ClassicCar.heic
+GreyhoundsLookingForATable.heic	OldSafeWall.heic			SewingThreads.heic
+ShelfChristmasDecoration.heic	Soundboard.heic
 
 These were all downloaded from https://heic.digital/samples/ and are covered by
 the conditions found in ../../Licences/Licence_HEICDigital.txt

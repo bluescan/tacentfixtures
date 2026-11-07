@@ -1,13 +1,13 @@
 ________________________________________________________________________________
 Modifications
 
-The images in here were modified to include placeholder meta data. Modifications
-are in the public domain.
+The images in here were modified by Tristan Grimmer to include placeholder meta
+data. Modifications are in the public domain.
 
 ________________________________________________________________________________
 FireBreathing*.webp
 
-These images were downloaded from 
+These images were downloaded from
 https://developers.google.com/speed/webp/gallery1
 Image: Fire breathing "Jaipur Maharaja Brass Band" Chassepierre Belgium
 Author: Luc Viatour

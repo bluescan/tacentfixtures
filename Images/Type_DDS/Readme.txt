@@ -97,3 +97,5 @@ channels are not independant) and correct dds files.
 Summary:
 Currently using NVTT where possible for the quality, and TEXC for more obscure
 pixel formats and HDR BC6 unsigned.
+
+________________________________________________________________________________

@@ -1,5 +1,5 @@
 ________________________________________________________________________________
-ParisIcc.avif SeineHdrSRGB.avif
+ParisIcc.avif						SeineHdrSRGB.avif
 
 These files were downloaded from https://github.com/AOMediaCodec/libavif and are
 under the BSD 2-clause licence. From that site it states:

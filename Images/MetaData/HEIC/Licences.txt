@@ -1,8 +1,8 @@
 ________________________________________________________________________________
-ChefWithTrumpet_EXIF_XMP.heic ChildrensShowTheater_EXIF.heic
-ClassicCar_EXIF_XMP.heic GreyhoundsLookingForATable_EXIF_XMP.heic
-OldSafeWall_EXIF_XMP.heic SewingThreads_EXIF.heic
-ShelfChristmasDecoration_EXIF.heic Soundboard_EXIF.heic
+ChefWithTrumpet_EXIF_XMP.heic		ChildrensShowTheater_EXIF.heic
+ClassicCar_EXIF_XMP.heic			GreyhoundsLookingForATable_EXIF_XMP.heic
+OldSafeWall_EXIF_XMP.heic			SewingThreads_EXIF.heic
+ShelfChristmasDecoration_EXIF.heic	Soundboard_EXIF.heic
 
 These were all downloaded from https://heic.digital/samples/ and are covered by
 the conditions found in ../../Licences/Licence_HEICDigital.txt
