@@ -1,0 +1,8 @@
+________________________________________________________________________________
+TacentTestPattern*.qoi
+
+These images are conversions of TacentTestPattern. The images are both ISC and
+CC0 licensed. Specifics may be found at
+../Licences/Licence_TacentTestPattern.txt
+
+________________________________________________________________________________
