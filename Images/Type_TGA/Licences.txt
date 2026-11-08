@@ -1,0 +1,22 @@
+________________________________________________________________________________
+TacentTestPattern*.tga
+
+These images are all conversions of TacentTestPatternRGBA. The images are both
+ISC and CC0 licensed. Specifics may be found at
+../Licences/Licence_TacentTestPattern.txt
+
+________________________________________________________________________________
+Gradient.tga				WhiteBorderRLE.tga
+
+These images were created by Tristan Grimmer are licensed under the ISC
+licence found at
+../Licences/Licence_ISC_Tacent.txt
+
+________________________________________________________________________________
+NewCage.tga
+
+This image is a texture from Tactile 3D. It was created by Casey O'Brien. It is
+distributed under the ISC licence at
+../Licences/Licence_ISC.txt
+
+________________________________________________________________________________
