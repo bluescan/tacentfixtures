@@ -27,3 +27,10 @@ Tristan Grimmer, The image is distributed under the ISC licence at
 ../Licences/Licence_ISC.txt
 
 ________________________________________________________________________________
+NorthernLights.jpg			ParisSonyAlpha.jpg			Flower.jpg
+
+These files were downloaded from https://github.com/cdcseacave/TinyEXIF in
+August 2022 and are governed by the licence found at
+../../Licences/Licence_CDCSeaCave.txt
+
+________________________________________________________________________________
