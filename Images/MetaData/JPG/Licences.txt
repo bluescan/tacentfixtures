@@ -1,5 +1,5 @@
 ________________________________________________________________________________
-NoFlashComp_EXIF.jpg					NorthernProblem_XMP.jpg
+NoFlashComp_EXIF.jpg					NorthernLights_XMP.jpg
 OrnateInterior_EXIF_XMP.jpg				ParisSonyAlpha_EXIF.jpg
 Pencils_NONE.jpg						PillarsCalib_EXIF_XMP.jpg
 Right_EXIF.jpg							SolarFarm_EXIF_XMP.jpg
