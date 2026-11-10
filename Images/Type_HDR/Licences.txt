@@ -1,7 +1,7 @@
 ________________________________________________________________________________
 NancyChurch1.hdr		NancyChurch2.hdr			NancyChurch3.hdr
-SeymourPark.hdr			ForestPath.hdr				MpiAtrium1.hdr
-MpiAtrium3.hdr			MpiOffice.hdr
+SeymourPark.hdr			ForestPath.hdr				ForestPath.rgbe
+MpiAtrium1.hdr			MpiAtrium3.hdr				MpiOffice.hdr
 
 These images are copyright Rafał Mantiuk were downloaded from
 https://pfstools.sourceforge.net/hdr_gallery.html
