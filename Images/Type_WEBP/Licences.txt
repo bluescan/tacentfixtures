@@ -4,8 +4,8 @@ MesmerizingMotion.webp
 TransparentCalicoCatSticker.webp
 
 These images were downloaded from
-From https://convertico.com/samples/webp/#google_vignette
-Form the website:
+https://convertico.com/samples/webp/#google_vignette
+The website usage conditions:
 "Every WEBP sample on this page is free to download and use - for testing
 software, demos, tutorials, bug reports and school projects. No sign-up, no
 attribution required. A link back to convertico.com/samples/webp/ is always

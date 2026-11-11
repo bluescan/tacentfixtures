@@ -47,3 +47,20 @@ They are licensed under the ILM licence found at
 ../Licences/Licence_ILM.txt
 
 ________________________________________________________________________________
+TransparentCalicoCatSticker_5551_ReversedAlpha.tga
+
+This image is a conversion of TransparentCalicoCatSticker.webp that was
+downloaded from https://convertico.com/samples/webp/#google_vignette
+The website usage conditions:
+"Every WEBP sample on this page is free to download and use - for testing
+software, demos, tutorials, bug reports and school projects. No sign-up, no
+attribution required. A link back to convertico.com/samples/webp/ is always
+appreciated. Please do not resell the files as stock images."
+
+This conversion is to a 16-bit TGA with binary alpha. Unlike conventional alpha
+where 0 means zero opacity and 1 means full opacity, this file is encoded with
+the alpha channel to mean transparency (0 -> opaque, 1 -> transparent). There
+are files in the wild that are 5551 16-bit that are encoded backwards like this
+and there is an option in Tacent View to interpret alpha reversed.
+
+________________________________________________________________________________
