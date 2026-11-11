@@ -20,3 +20,13 @@ distributed under the ISC licence at
 ../Licences/Licence_ISC.txt
 
 ________________________________________________________________________________
+Corrupt.tga
+
+This is a modification of DroneBebop2_EXIF_XMP.jpg that is no longer a valid tga
+file. Used for testing parsing of malformed data. It does have pixel data from
+the DroneBebop2_EXIF_XMP.jpg which was downloaded from
+https://github.com/cdcseacave/TinyEXIF in August 2022 and is governed by the
+licence found at
+../../Licences/Licence_CDCSeaCave.txt
+
+________________________________________________________________________________

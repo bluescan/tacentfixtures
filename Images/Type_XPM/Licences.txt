@@ -1,0 +1,9 @@
+________________________________________________________________________________
+WiredDrives.xpm
+
+This is a screenshot of the Wired theme in Tactile 3D. The 'circuit board'
+skybox was created by Casey O'Brien, The folder containers were created by
+Tristan Grimmer, The image is distributed under the ISC licence at
+../Licences/Licence_ISC.txt
+
+________________________________________________________________________________

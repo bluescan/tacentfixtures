@@ -1,9 +1,12 @@
 ________________________________________________________________________________
-Desk.exr			CandleGlass.exr			StillLife.exr
+Desk.exr				Desk512x512.exr				Desk512x1024.exr
+CandleGlass.exr			StillLife.exr
 
 These images were downloaded from
 https://github.com/AcademySoftwareFoundation/openexr-images
 They are licensed under the ILM licence found at
 ../Licences/Licence_ILM.txt
+
+Desk512x512 and Desk512x1024 are cropped/scaled versions of the original Desk.
 
 ________________________________________________________________________________
