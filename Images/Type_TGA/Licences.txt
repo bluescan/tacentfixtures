@@ -6,7 +6,7 @@ ISC and CC0 licensed. Specifics may be found at
 ../Licences/Licence_TacentTestPattern.txt
 
 ________________________________________________________________________________
-Gradient.tga				WhiteBorderRLE.tga
+Gradient.tga			WhiteBorderRLE.tga				Flipbook.tga
 
 These images were created by Tristan Grimmer are licensed under the ISC
 licence found at
@@ -28,5 +28,22 @@ the DroneBebop2_EXIF_XMP.jpg which was downloaded from
 https://github.com/cdcseacave/TinyEXIF in August 2022 and is governed by the
 licence found at
 ../../Licences/Licence_CDCSeaCave.txt
+
+________________________________________________________________________________
+Dock_319x179.tga			Dock_320x180.tga			Dock_512x382.tga
+Dock_640x360.tga			Dock_317x177.tga			Dock_318x178.tga
+Dock_640x360_4Colour.tga
+
+Dock photo taken by Tristan Grimmer.
+Distributed under the ISC licence which may be found at
+../Licences/Licence_ISC_Tacent.txt
+
+________________________________________________________________________________
+Desk_640x360.tga
+
+This images is a conversion of Desk.exr downloaded from
+https://github.com/AcademySoftwareFoundation/openexr-images
+They are licensed under the ILM licence found at
+../Licences/Licence_ILM.txt
 
 ________________________________________________________________________________
